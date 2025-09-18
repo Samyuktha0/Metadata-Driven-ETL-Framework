@@ -1,0 +1,5 @@
+source: "data/source.csv"
+destination: "data/cleaned.csv"
+transformations:
+  - drop_nulls
+  - normalize_column: "price"
