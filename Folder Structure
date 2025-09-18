@@ -1,0 +1,8 @@
+metadata-etl-framework/
+├── etl/
+│   ├── main.py
+│   ├── transform.py
+│   └── validate.py
+├── metadata/
+│   └── pipeline_config.yaml
+├── README.md
